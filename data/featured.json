@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Rose Black Tea",
+        "price": "$5.50",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/whiterose.jpg",
+        "altText": "Rose black tea with aromatic rose petals and a rich, smooth flavor.",
+        "reference" : "Teas N You. (2020). White rose [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/whiterose.jpg"
+    },
+    {
+        "name": "Lavender Earl Grey",
+        "price": "$5.50",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/taroslush.jpg",
+        "altText": "Lavender Earl Grey tea with a fragrant lavender aroma and a classic bergamot taste.",
+        "reference" : "Teas N You. (n.d.). Coco taro slush. Retrieved August 25, 2024, from https://teasnyou.com/beverages/coco-taro-slush/"
+    },
+    {
+        "name": "Black Sesame Mochi Donuts",
+        "price": "$4.00",
+        "imagePath": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/166987/MochiMochiDonut-Black-Sesame-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074",
+        "altText": "A chewy, nutty donut with rich black sesame flavor.",
+        "reference" : "Goldbelly. (n.d.). Mochi mochi donut – black sesame donut [Photograph]. Retrieved August 25, 2024, from https://goldbelly.imgix.net/uploads/showcase_media_asset/image/166987/MochiMochiDonut-Black-Sesame-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074"
+    }
+]

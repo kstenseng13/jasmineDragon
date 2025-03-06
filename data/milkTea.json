@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Classic Milk Tea",
+        "price": "$4.50",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/honeygreenmt.jpg",
+        "altText": "Traditional black tea blended with milk for a smooth, creamy taste.",
+        "reference" : "Teas N You. (n.d.). Honey green milk tea [Photograph]. Teas N You. https://teasnyou.com/beverages/honey-green-milk-tea/"
+    },
+    {
+        "name": "Taro Milk Tea",
+        "price": "$5.00",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/taro.jpg",
+        "altText": "Creamy taro-flavored milk tea with a subtle sweetness.",
+        "reference" : "Teas N You. (n.d.). Taro milk tea [Photograph]. Teas N You. https://teasnyou.com/beverages/taro-milk-tea/"
+    },
+    {
+        "name": "Honey Milk Tea",
+        "price": "$5.00",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/honeygreenmt-570x570.jpg",
+        "altText": "Milk tea sweetened with a touch of honey for a smooth, natural flavor.",
+        "reference" : "Teas N You. (n.d.). Honey green milk tea [Photograph]. Teas N You. https://teasnyou.com/beverages/honey-green-milk-tea/"
+    },
+    {
+        "name": "Matcha Milk Tea",
+        "price": "$5.00",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/matchamilktea.jpg",
+        "altText": "Green tea milk tea made with premium matcha powder, offering a rich and earthy taste.",
+        "reference" : "Teas N You. (n.d.). Matcha milk tea [Photograph]. Teas N You. https://teasnyou.com/beverages/matcha-milk-tea/"
+    },
+    {
+        "name": "Pistachio Milk Tea",
+        "price": "$5.00",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/pistachio.jpg",
+        "altText": "Milk tea with a hint of pistachio flavor, offering a nutty and smooth finish.",
+        "reference" : "Teas N You. (n.d.). Cold brew unsweet [Photograph]. Teas N You. https://teasnyou.com/beverages/cold-brew-unsweet/"
+    }
+]

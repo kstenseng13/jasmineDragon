@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Lychee Green Tea",
+        "price": "$4.75",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/fusionfruit.jpg",
+        "altText": "Lychee green tea with a sweet, floral flavor and a refreshing taste.",
+        "reference" : "Teas N You. (2020). Fusion fruit [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/fusionfruit.jpg"
+    },
+    {
+        "name": "Passion Fruit Black Tea",
+        "price": "$4.75",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/fusionfruit.jpg",
+        "altText": "Passion fruit black tea with a tropical flavor and a vibrant, fruity aroma.",
+        "reference" : "Teas N You. (2020). Fusion fruit [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/fusionfruit.jpg"
+    },
+    {
+        "name": "Dragon Fruit Tea",
+        "price": "$4.75",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/peachplease.jpg",
+        "altText": "Dragon fruit tea with a bright pink color and a sweet, exotic flavor.",
+        "reference" : "Teas N You. (2020). Peach please [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/peachplease.jpg"
+    },
+    {
+        "name": "Coconut Pineapple Tea",
+        "price": "$4.75",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/flowerbomb.jpg",
+        "altText": "Coconut pineapple tea with a tropical blend of coconut and pineapple flavors.",
+        "reference" : "Teas N You. (n.d.). Flower bomb [Photograph]. Teas N You. https://teasnyou.com/beverages/flower-bomb/"
+    },
+    {
+        "name": "Watermelon Mint Tea",
+        "price": "$4.75",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/herbalhibiscus.jpg",
+        "altText": "Watermelon mint tea with a refreshing blend of juicy watermelon and cool mint.",
+        "reference" : "Teas N You. (2020). Herbal hibiscus [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/herbalhibiscus.jpg"
+    }
+]

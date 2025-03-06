@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Peppermint Milk Tea",
+        "price": "$5.50",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/sea-salt.jpg",
+        "altText": "Classic milk tea infused with refreshing peppermint flavor.",
+        "reference" : "Teas N You. (2020). Sea salt [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/sea-salt.jpg"
+    },
+    {
+        "name": "Pumpkin Spice Milk Tea",
+        "price": "$5.75",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/whiterose.jpg",
+        "altText": "Milk tea with a blend of pumpkin spice flavors, perfect for the fall season.",
+        "reference" : "Teas N You. (2020). White rose [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/whiterose.jpg"
+    },
+    {
+        "name": "Cinnamon Milk Tea",
+        "price": "$5.50",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/caramel.jpg",
+        "altText": "Warm milk tea flavored with a hint of cinnamon.",
+        "reference" : "Teas N You. (2020). Caramel [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/caramel.jpg"
+    },
+    {
+        "name": "Ginger Milk Tea",
+        "price": "$5.50",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/honeygreenmt.jpg",
+        "altText": "Milk tea with a subtle ginger flavor, offering a warm and spicy kick.",
+        "reference" : "Teas N You. (n.d.). Honey green milk tea [Photograph]. Teas N You. https://teasnyou.com/beverages/honey-green-milk-tea/"
+    },
+    {
+        "name": "Caramel Apple Milk Tea",
+        "price": "$5.75",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/caramel.jpg",
+        "altText": "Sweet milk tea with caramel and apple flavors, reminiscent of a caramel apple treat.",
+        "reference" : "Teas N You. (2020). Caramel [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/caramel.jpg"
+    }
+]

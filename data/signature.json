@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Rose Black Tea",
+        "price": "$5.50",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/whiterose.jpg",
+        "altText": "Rose black tea with aromatic rose petals and a rich, smooth flavor.",
+        "reference" : "Teas N You. (2020). White rose [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/whiterose.jpg"
+    },
+    {
+        "name": "Lavender Earl Grey",
+        "price": "$5.50",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/taroslush.jpg",
+        "altText": "Lavender Earl Grey tea with a fragrant lavender aroma and a classic bergamot taste.",
+        "reference" : "Teas N You. (n.d.). Coco taro slush. Retrieved August 25, 2024, from https://teasnyou.com/beverages/coco-taro-slush/"
+    },
+    {
+        "name": "Jasmine Green Tea",
+        "price": "$5.25",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/flowerbomb.jpg",
+        "altText": "Jasmine green tea with a delicate floral aroma and a light, refreshing taste.",
+        "reference" : "Teas N You. (n.d.). Flower bomb [Photograph]. Teas N You. https://teasnyou.com/beverages/flower-bomb/"
+    },
+    {
+        "name": "Vanilla Oolong Tea",
+        "price": "$5.75",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/sea-salt.jpg",
+        "altText": "Vanilla oolong tea with a creamy vanilla flavor and a smooth, velvety finish.",
+        "reference" : "Teas N You. (2020). Sea salt [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/sea-salt.jpg"
+    },
+    {
+        "name": "Chamomile Honey Tea",
+        "price": "$5.00",
+        "imagePath": "https://teasnyou.com/wp-content/uploads/2020/10/caramel.jpg",
+        "altText": "Chamomile honey tea with a soothing blend of chamomile flowers and sweet honey.",
+        "reference" : "Teas N You. (2020). Caramel [Photograph]. Teas N You. https://teasnyou.com/wp-content/uploads/2020/10/caramel.jpg"
+    }
+]

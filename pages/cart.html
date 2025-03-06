@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Cart</title>
+    <link rel="shortcut icon"
+        href="https://cdn.iconscout.com/icon/free/png-256/free-teacup-tea-cup-without-handle-drink-beverage-food-emoj-symbol-30687.png"
+        alt="Twitter Emoji (Creator).(2019, September 11). Free Teacup Emoji Icon [Digital image]. Retrieved from URL https://iconscout.com/free-icon/teacup-tea-cup-without-handle-drink-beverage-food-emoj-symbol">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.0.1/mustache.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+
+<body>
+    <div id="navbar" class="navBarContainer" role="navigation" aria-label="Navbar"></div>
+
+    <main class="bg-whiteSmoke justify-center flex flex-wrap w-full p-8">
+        <div class="w-full lg:w-7/12 lg:mr-8">
+            <h2 class="">Order Summary</h2>
+            <div id="orderSummaryItemsSection" aria-live="polite"></div>
+        </div>
+        <div class="w-full mt-4 lg:mt-0 lg:w-[33%] inline-block h-full">
+            <h2>Order Details</h2>
+            <div class=" mt-2 lg:mt-12">
+                <div id="orderSummaryDetails">
+                    <div>
+                        <p>Ready at:</p>
+                        <div class="border border-stone-800 bg-stone-200 w-full mt-2"  role="region" aria-label="Store Address">
+                            123 Store Ave S, SomeCity, MN 12345-6789
+                        </div>
+                    </div>
+                    <div class="pt-4">
+                        <p>For:</p>
+                        <div class="border border-stone-800 bg-stone-200 w-full mt-2" role="region" aria-label="Pickup Time">
+                            Pickup - 5:30 PM (ASAP)
+                        </div>
+                    </div>
+                    <div class="pt-4">
+                        <p class="text-lg xl:text-3xl font-semibold">Total</p>
+                        <div class="w-full flex flex-nowrap">
+                            <div class="grow">
+                                <p>Medium Iced Matcha Milk Tea</p>
+                                <ul class="list-inside list-disc">
+                                    <li>Original Boba, Regular</li>
+                                    <li>Strawberry Puree, Regular</li>
+                                </ul>
+                            </div>
+                            <div class="grow text-right">
+                                <p>$ 5.50</p>
+                                <p>+ 0.50</p>
+                                <p>+ 1.00</p>
+                            </div>
+                        </div>
+                        <div class="w-full flex flex-nowrap pt-4">
+                            <div class="grow">
+                                <p>Medium Iced Matcha Milk Tea</p>
+                                <ul class="list-inside list-disc">
+                                    <li>Original Boba, Regular</li>
+                                    <li>Strawberry Puree, Regular</li>
+                                </ul>
+                            </div>
+                            <div class="grow text-right">
+                                <p>$ 5.50</p>
+                                <p>+ 0.50</p>
+                                <p>+ 1.00</p>
+                            </div>
+                        </div>
+                        <div class="w-full flex flex-nowrap pt-4">
+                            <div class="grow">
+                                <p>Medium Iced Matcha Milk Tea</p>
+                                <ul class="list-inside list-disc">
+                                    <li>Original Boba, Regular</li>
+                                    <li>Strawberry Puree, Regular</li>
+                                </ul>
+                            </div>
+                            <div class="grow text-right">
+                                <p>$ 5.50</p>
+                                <p>+ 0.50</p>
+                                <p>+ 1.00</p>
+                            </div>
+                        </div>
+                        <div class="w-full flex flex-nowrap pt-6">
+                            <div class="grow">
+                                <p>Tax</p>
+                                <p>Tip</p>
+                                <p>Subtotal</p>
+                                <p class="text-lg xl:text-2xl font-semibold">Total</p>
+                            </div>
+                            <div class="grow text-right">
+                                <p>$ 1.39</p>
+                                <p>$ 3.00</p>
+                                <p>$ 26.78</p>
+                                <p class="text-lg xl:text-2xl font-semibold">$ 29.45</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div id="rewardsSection"></div>
+    <div class="bg-pink-300 h-12"></div>
+    <div>
+        <h2 class="text-center mt-4">You Might Also Like</h2>
+        <div id="featuredProductsSection" class="productSection justify-center"></div>
+    </div>
+    <div id="footer" class="text-center lg:text-left bg-matcha"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="/scripts/headerFooter.js"></script>
+    <script src="/scripts/cart.js"></script>
+    <script src="/scripts/featuredProducts.js"></script>
+</body>
+
+</html>

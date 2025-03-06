@@ -1,0 +1,20 @@
+<script id="productCardTemplate" type="x-tmpl-mustache">
+    {{#products}}
+    <section id="" class=" bg-whiteSmoke productCard" id="product">
+        <a href="#"><img class="productCardImage"
+                src="{{imagePath}}"
+                alt="{{altText}}" />
+        </a>
+        <div class="mt-2 px-5 pb-3">
+            <a href="#">
+                <h5 class="text-xl font-bold">{{name}}</h5>
+            </a>
+            <div class="flex items-center justify-between">
+                <p>
+                    <span class="text-lg">{{price}}</span>
+                </p>
+            </div>
+        </div>
+    </section>
+    {{/products}}
+</script>

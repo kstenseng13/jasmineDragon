@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Matcha Mochi Donuts",
+        "price": "$3.75",
+        "imagePath": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/167050/MochiMochiDonut-Green-Tea-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074",
+        "altText": "Matcha mochi donuts with a vibrant green glaze and a soft, chewy texture.",
+        "reference" : "Goldbelly. (n.d.). Mochi mochi donut – green tea donut [Photograph]. Retrieved August 25, 2024, from https://goldbelly.imgix.net/uploads/showcase_media_asset/image/167050/MochiMochiDonut-Green-Tea-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074"
+    },
+    {
+        "name": "Ube Mochi Donuts",
+        "price": "$4.00",
+        "imagePath": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/167159/MochiMochiDonut-Ube-Sweet-Potato-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074",
+        "altText": "Ube mochi donuts with a purple ube glaze and a delicate, sweet flavor.",
+        "reference" : "Goldbelly. (n.d.). Mochi mochi donut – ube sweet potato donut [Photograph]. Retrieved August 25, 2024, from https://goldbelly.imgix.net/uploads/showcase_media_asset/image/167159/MochiMochiDonut-Ube-Sweet-Potato-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074"
+    },
+    {
+        "name": "Chocolate Mochi Donuts",
+        "price": "$4.00",
+        "imagePath": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/167048/MochiMochiDonut-Mocha-Coffee-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074",
+        "altText": "Chocolate mochi donuts with a rich chocolate glaze and a sprinkle of cocoa powder.",
+        "reference" : "Goldbelly. (n.d.). Mochi mochi donut – mocha coffee donut [Photograph]. Retrieved August 25, 2024, from https://goldbelly.imgix.net/uploads/showcase_media_asset/image/167048/MochiMochiDonut-Mocha-Coffee-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074"
+    },
+    {
+        "name": "Strawberry Mochi Donuts",
+        "price": "$3.75",
+        "imagePath": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/167034/MochiMochiDonut-Strawberry-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074",
+        "altText": "Strawberry mochi donuts with a sweet strawberry glaze and a chewy texture.",
+        "reference" : "Goldbelly. (n.d.). Mochi mochi donut – strawberry donut [Photograph]. Retrieved August 25, 2024, from https://goldbelly.imgix.net/uploads/showcase_media_asset/image/167034/MochiMochiDonut-Strawberry-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074"
+    },
+    {
+        "name": "Black Sesame Mochi Donuts",
+        "price": "$4.00",
+        "imagePath": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/166987/MochiMochiDonut-Black-Sesame-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074",
+        "altText": "A chewy, nutty donut with rich black sesame flavor.",
+        "reference" : "Goldbelly. (n.d.). Mochi mochi donut – black sesame donut [Photograph]. Retrieved August 25, 2024, from https://goldbelly.imgix.net/uploads/showcase_media_asset/image/166987/MochiMochiDonut-Black-Sesame-Donut.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1&w=1074"
+    }
+]

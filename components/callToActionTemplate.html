@@ -1,0 +1,20 @@
+<script id="callToAction" type="x-tmpl-mustache">
+    {{#message}}
+    <section id="callToAction" class="w-full text-center">
+        <div class="bg-goldYellow h-12"></div>
+        <div class="bg-matcha h-56 flex items-center justify-center">
+            <div class="text-xl font-semibold inline-block mr-4">{{text}}</div>
+            <button type="submit" id="action1" name="{{buttonText}}" onclick="window.location.href='../pages/{{page0}}.html'"
+                class="inline-block text-white shadow-md bg-pink-600 hover:bg-pink-700 focus:ring-4 focus:outline-none focus:ring-pink-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-4">
+                {{buttonText}}
+            </button>
+            <button type="button" id="action2" name="{{buttonText1}}" onclick="window.location.href='../pages/{{page1}}.html'"
+                class="inline-block shadow-md bg-white hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-pink-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center">
+                {{buttonText1}}
+            </button>
+        </div>
+    </section>
+    
+    
+{{/message}}
+</script>
